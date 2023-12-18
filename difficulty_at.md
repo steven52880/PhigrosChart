@@ -1,10 +1,10 @@
 # Songs
-- [default order](default.html)
-- [sort by songname](songname.html)
-- [sort by difficulty(EZ)](difficulty_ez.html)
-- [sort by difficulty(HD)](difficulty_hd.html)
-- [sort by difficulty(IN)](difficulty_in.html)
-- [sort by difficulty(AT)](difficulty_at.html)
+- [default order](default.md)
+- [sort by songname](songname.md)
+- [sort by difficulty(EZ)](difficulty_ez.md)
+- [sort by difficulty(HD)](difficulty_hd.md)
+- [sort by difficulty(IN)](difficulty_in.md)
+- [sort by difficulty(AT)](difficulty_at.md)
 | Song  | Artist   | EZ   | HD   | IN   | AT   |
 | ----- | -------- | ---- | ---- | ---- | ---- |
 | Rrhar'il | Team Grimoire | [EZ (7.0) Lv.7](zip/Rrharil.TeamGrimoire_EZ.zip) | [HD (12.7) Lv.12](zip/Rrharil.TeamGrimoire_HD.zip) | [IN (15.7) Lv.15](zip/Rrharil.TeamGrimoire_IN.zip) | [AT (16.8) Lv.16](zip/Rrharil.TeamGrimoire_AT.zip) |

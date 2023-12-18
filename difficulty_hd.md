@@ -1,10 +1,10 @@
 # Songs
-- [default order](default.html)
-- [sort by songname](songname.html)
-- [sort by difficulty(EZ)](difficulty_ez.html)
-- [sort by difficulty(HD)](difficulty_hd.html)
-- [sort by difficulty(IN)](difficulty_in.html)
-- [sort by difficulty(AT)](difficulty_at.html)
+- [default order](default.md)
+- [sort by songname](songname.md)
+- [sort by difficulty(EZ)](difficulty_ez.md)
+- [sort by difficulty(HD)](difficulty_hd.md)
+- [sort by difficulty(IN)](difficulty_in.md)
+- [sort by difficulty(AT)](difficulty_at.md)
 | Song  | Artist   | EZ   | HD   | IN   | AT   |
 | ----- | -------- | ---- | ---- | ---- | ---- |
 | 望影の方舟Six | Se-U-Ra | [EZ (6.5) Lv.6](zip/望影の方舟Six.SeURa_EZ.zip) | [HD (12.9) Lv.12](zip/望影の方舟Six.SeURa_HD.zip) | [IN (15.7) Lv.15](zip/望影の方舟Six.SeURa_IN.zip) |

@@ -1,10 +1,10 @@
 # Songs
-- [default order](default.html)
-- [sort by songname](songname.html)
-- [sort by difficulty(EZ)](difficulty_ez.html)
-- [sort by difficulty(HD)](difficulty_hd.html)
-- [sort by difficulty(IN)](difficulty_in.html)
-- [sort by difficulty(AT)](difficulty_at.html)
+- [default order](default.md)
+- [sort by songname](songname.md)
+- [sort by difficulty(EZ)](difficulty_ez.md)
+- [sort by difficulty(HD)](difficulty_hd.md)
+- [sort by difficulty(IN)](difficulty_in.md)
+- [sort by difficulty(AT)](difficulty_at.md)
 | Song  | Artist   | EZ   | HD   | IN   | AT   |
 | ----- | -------- | ---- | ---- | ---- | ---- |
 | Glaciaxion | SunsetRay | [EZ (1.0) Lv.1](zip/Glaciaxion.SunsetRay_EZ.zip) | [HD (6.5) Lv.6](zip/Glaciaxion.SunsetRay_HD.zip) | [IN (12.5) Lv.12](zip/Glaciaxion.SunsetRay_IN.zip) |

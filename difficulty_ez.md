@@ -1,10 +1,10 @@
 # Songs
-- [default order](default.html)
-- [sort by songname](songname.html)
-- [sort by difficulty(EZ)](difficulty_ez.html)
-- [sort by difficulty(HD)](difficulty_hd.html)
-- [sort by difficulty(IN)](difficulty_in.html)
-- [sort by difficulty(AT)](difficulty_at.html)
+- [default order](default.md)
+- [sort by songname](songname.md)
+- [sort by difficulty(EZ)](difficulty_ez.md)
+- [sort by difficulty(HD)](difficulty_hd.md)
+- [sort by difficulty(IN)](difficulty_in.md)
+- [sort by difficulty(AT)](difficulty_at.md)
 | Song  | Artist   | EZ   | HD   | IN   | AT   |
 | ----- | -------- | ---- | ---- | ---- | ---- |
 | Spasmodic | 姜米條☆颶風 ~ ♫元力上人♫ | [EZ (7.5) Lv.7](zip/Spasmodic.姜米條颶風元力上人_EZ.zip) | [HD (12.6) Lv.12](zip/Spasmodic.姜米條颶風元力上人_HD.zip) | [IN (15.2) Lv.15](zip/Spasmodic.姜米條颶風元力上人_IN.zip) | [AT (16.3) Lv.16](zip/Spasmodic.姜米條颶風元力上人_AT.zip) |
